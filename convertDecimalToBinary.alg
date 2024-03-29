@@ -39,8 +39,8 @@ inicio
             numero <- numero / 2
         fimenquanto
     fimse
-    //Ao fim do loop teremos uma sequencia de 1s e 0s que representa a converção do número inicial
-    
+    //Ao fim do loop teremos uma sequencia de 1s e 0s que representa a conversão do número inicial
+
 
     escreval("Binario: " + binario);
     escreval("")

@@ -48,7 +48,7 @@ inicio
             potencia <- potencia + 1
         fimpara
 
-    //ao fim do loop, teremos todos os numeros somados na variavel decimal, que vera representar corretamente a convercao
+    //ao fim do loop, teremos todos os numeros somados na variavel decimal, que vera representar corretamente a conversao
     
 
 
